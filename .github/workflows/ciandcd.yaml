@@ -8,6 +8,7 @@ env:
   # TAG: "v0.1.0" # version dynamic 
   HELM_REPO: sexymanalive/first-argocd-git-repo.git
   
+  
 jobs:
   build-and-push:
     runs-on: ubuntu-latest 
